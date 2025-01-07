@@ -95,9 +95,9 @@ public static final String PURPLE = "\033[38;5;93m";
 
     public void OPEN_URL(String url) {
         try {
-            //Desktop desktop = Desktop.getDesktop();
+            Desktop desktop = Desktop.getDesktop();
             URI uri = new URI(url);
-            //desktop.browse(uri);
+            desktop.browse(uri);
         } catch (Exception e) {
             e.printStackTrace();
         }
