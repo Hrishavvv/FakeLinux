@@ -1,1 +1,1 @@
-<div align="center"> <h1>Fake Linux</h1> <h2 style="font-weight: normal; font-style: italic;">A Linux simulation created using Java (aka Retardism)</h2> <img src="https://github.com/user-attachments/assets/cab4a0c0-f0b0-4795-85ef-95fa7937f4a9" alt="Image"> </div>
+<div align="center"> <h1>Fake Linux</h1> <h2 style="font-weight: normal; font-style: italic;">A Linux simulation created using Java</h2> <img src="https://github.com/user-attachments/assets/cab4a0c0-f0b0-4795-85ef-95fa7937f4a9" alt="Image"> </div>
